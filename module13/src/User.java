@@ -22,8 +22,7 @@ class User {
         this.company = company;
     }
 
-    public User() {
-    }
+   
 
     public int getId() {
         return id;
